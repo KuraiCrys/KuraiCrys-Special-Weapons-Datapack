@@ -1,5 +1,7 @@
-# GoofBallsIncarnate-Special-Weapons-Datapack
-Minecraft datapack for GoofBallsIncarnate server
+# Special Weapons Datapack
+Minecraft datapack which adds special weapons
+
+made by KuraiCrys
 
 -------------------------------------------------------------
 
